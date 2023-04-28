@@ -1,4 +1,4 @@
-# ParkingLot FreeCalculator
+# ParkingLot FeeCalculator
 ParkingLot FeeCalculator in C#
 
 A parking lot is a dedicated area that is intended for parking vehicles. Parking lots are
