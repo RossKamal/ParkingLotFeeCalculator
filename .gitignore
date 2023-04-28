@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/ParkingLotFeeCalculator
+/ParkingLotFees/.vs
+/ParkingLotFees/bin/Debug/net7.0
+/ParkingLotFees/obj
+/ParkingLotFeeTests/bin/Debug/net7.0
+/ParkingLotFeeTests/obj
