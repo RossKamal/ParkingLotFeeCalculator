@@ -1,2 +1,2 @@
 # ParkingLotFreeCalculator
-ParkingLotFreeCalculator in C#
+ParkingLotFeeCalculator in C#
